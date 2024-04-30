@@ -1,0 +1,8 @@
+# Single files
+.DS_Store
+.vscode
+
+# Folders
+Library
+Logs
+Temp
